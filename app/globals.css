@@ -1,0 +1,3 @@
+@import "tailwindcss";
+:root{--core:#123c69;--accent:#2ca58d} body{font-family:Inter,system-ui,sans-serif;background:#f7faf9;color:#17202a}.badge{border-radius:999px;padding:.2rem .55rem;font-size:.75rem;font-weight:700}.card{background:white;border:1px solid #dfe8e4;border-radius:1rem;box-shadow:0 1px 2px #0000000d}.touch{min-height:44px;min-width:44px}
+@media print{.no-print{display:none!important} body{background:white}.label-grid{grid-template-columns:repeat(2,1fr)}}

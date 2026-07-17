@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node_modules
+.next
+dist
+build
+coverage
+uploads/*
+!uploads/.gitkeep
+backups
+*.sql
+*.sql.gz
